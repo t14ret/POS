@@ -1,17 +1,19 @@
 {
-    "notifications": [
-        {
-            "id": "newyear2025",
-            "title": "🎉 Bonne Année 2025 !",
-            "message": "Toute l'équipe GAM vous souhaite une excellente année 2025, pleine de succès et de prospérité !",
-            "type": "celebration",
-            "start_date": "2025-12-23",
-            "end_date": "2025-12-31",
-            "dismissable": true
-        }
-    ]
-
+  "notifications": [
+    {
+      "id": "newyear2025",
+      "enabled": false,
+      "title": "🎉 Bonne Année 2025 !",
+      "message": "Toute l'équipe GAM vous souhaite une excellente année 2025, pleine de succès et de prospérité !",
+      "type": "celebration",
+      "start_date": "2025-12-23",
+      "end_date": "2025-12-31",
+      "dismissable": true
+    }
+  ]
 }
+
+
 
 
 
